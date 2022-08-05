@@ -1,1 +1,1 @@
-SELECT * FROM Students WHERE City REGEXP '^[acsACS]';
+SELECT * FROM Students WHERE City REGEXP '^[acs]';
